@@ -43,6 +43,9 @@ This dataset is suitable for:
 - Testing classification algorithms on real and synthetic image data.
 - Research in image-based quality control.
 
+
+This dataset had been used by us for our project nonstick coating wear detection for more details checkout there
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
