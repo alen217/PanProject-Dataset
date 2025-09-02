@@ -45,7 +45,15 @@ This dataset is suitable for:
 
 ## License
 
-Please specify the license for the data or usage restrictions here.
+This project is licensed under the [MIT License](LICENSE).
+
+### MIT License Summary
+
+- **Permission is granted** to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the dataset, provided that the original copyright notice and 
+  permission notice are included in all copies or substantial portions of the dataset.
+- The dataset is provided **"as is"**, without warranty of any kind.
+
+For full license details, please see the [LICENSE](LICENSE) file in this repository.
 
 ---
 
